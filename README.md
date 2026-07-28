@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Zoya Umar 👋</h1>
-<h3 align="center">AI/ML Engineer in the making — Computer Vision · Applied ML · Health Tech</h3>
+<h3 align="center">AI/ML Engineer · Computer Vision · Applied ML · MERN Developer</h3>
 
 <p align="center">
 Bachelor of Artificial Intelligence @ Air University | Actively seeking ML/AI internships & junior roles
@@ -10,11 +10,6 @@ Bachelor of Artificial Intelligence @ Air University | Actively seeking ML/AI in
   <a href="https://zoya-umar-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="mailto:zoyaumar2006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-
----
-
-### 🎯 What I'm Looking For
-I'm looking for **ML/AI internships or junior engineering roles** where I can apply computer vision, applied ML, and real-world data problems — especially in health tech, computer vision, or applied research settings.
 
 ---
 
