@@ -13,35 +13,44 @@ Bachelor of Artificial Intelligence @ Air University | Actively seeking ML/AI in
 
 ---
 
-### 🚀 Featured Projects
+🚀 Featured Projects
 
-**🩺 MediSense AI — ML Health Advisory System**
+(click a project to expand)
+
+<details> <summary><b>🩺 MediSense AI — ML Health Advisory System</b></summary> <br>
+
 Built an intelligent system that analyzes user-reported symptoms and provides data-driven prescription/advisory recommendations using ML algorithms. Focused on translating unstructured symptom input into structured, actionable health guidance.
-`Python` `Scikit-learn` `Pandas`
 
-**🌊 FloodSense — ML-Powered Flood Risk Early Warning** 🏆 *BFEST BNU Competition*
+Python Scikit-learn Pandas
+
+</details> <details> <summary><b>🌊 FloodSense — ML-Powered Flood Risk Early Warning</b> 🏆 <i>BFEST BNU Competition</i></summary> <br>
+
 Engineered an AI-powered flood risk early warning system in a 60-hour hackathon sprint, predicting district-level flood severity (Low → Critical) from real-world NASA and NDMA sensor data.
-`Python` `Machine Learning` `Data Science`
 
-**🤖 Pacman AI — Pathfinding & Emergent Behavior**
+Python Machine Learning Data Science
+
+</details> <details> <summary><b>🤖 Pacman AI — Pathfinding & Emergent Behavior</b></summary> <br>
+
 Built an AI Pacman game where ghosts use A* search, decentralized vector-based tactics, and predictive movement — creating emergent multi-agent pursuit behavior without centralized control.
-`Python` `A* Search` `Multi-Agent Systems`
 
-**🎹 Virtual Piano — Computer Vision**
+Python A* Search Multi-Agent Systems
+
+</details> <details> <summary><b>🎹 Virtual Piano — Computer Vision</b></summary> <br>
+
 Built a webcam-based virtual piano using OpenCV, enabling touchless note-playing through real-time hand/finger detection via laptop camera.
-`Python` `OpenCV` `Computer Vision`
 
-**🖐️ Sign Language Interpreter — Computer Vision**
+Python OpenCV Computer Vision
+
+</details> <details> <summary><b>🖐️ Sign Language Interpreter — Computer Vision</b></summary> <br>
+
 Real-time sign language detection system using webcam input and CV models, converting hand gestures to text to enable communication for non-verbal users.
-`Python` `Computer Vision` `Accessibility`
 
-<details>
-<summary>📂 More Projects</summary>
+Python Computer Vision Accessibility
 
-- **Echoes of Matrix** — Zombie shooter built in Unreal Engine 5.0.3 (C++, OOP, UE5 Blueprints) with a 4-person team, applying polymorphism, abstraction, and event-driven architecture.
-- **Library Management System** — LMS built in C++ with Qt Framework, featuring secure login, dynamic book management, and real-time record tracking.
-- **Ball Bouncing Game** — Low-level ball bouncing game in x86 Assembly (COAL), with a real-time diagnostic terminal displaying active registers, interrupts, and system calls triggered by each in-game action.
-
+</details> <details> <summary>📂 More Projects</summary> <br>
+Echoes of Matrix — Zombie shooter built in Unreal Engine 5.0.3 (C++, OOP, UE5 Blueprints) with a 4-person team, applying polymorphism, abstraction, and event-driven architecture.
+Library Management System — LMS built in C++ with Qt Framework, featuring secure login, dynamic book management, and real-time record tracking.
+Ball Bouncing Game — Low-level ball bouncing game in x86 Assembly (COAL), with a real-time diagnostic terminal displaying active registers, interrupts, and system calls triggered by each in-game action.
 </details>
 
 ---
